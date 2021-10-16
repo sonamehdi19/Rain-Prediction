@@ -2,7 +2,7 @@
 
 Rain Prediction Model is built with  Neural Network using PyTorch. The model is aimed at to predict whether or not is going to rain tomorrow using real weather information.
 
-# Dataset description: 
+Dataset description: 
 RainTomorrow is the target variable to predict. It means - did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
 
 Date - The date of observation
